@@ -1,1 +1,1 @@
-xiaoya-tvbox
+xiaoya-tvbox:latest
